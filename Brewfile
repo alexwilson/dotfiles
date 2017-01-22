@@ -55,6 +55,10 @@ cask 'vlc'
 # Mac App Store
 mas 'DaisyDisk', id: 411643860
 mas 'Irvue', id: 1039633667
+mas 'Keynote', id: 409183694
+mas 'Numbers', id: 409203825
+mas 'Pages', id: 409201541
+
 
 
 # Fonts
