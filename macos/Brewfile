@@ -64,6 +64,7 @@ cask 'skype'
 cask 'slack-beta'
 cask 'sublime-text-dev'
 cask 'synergy'
+cask 'ubersicht'
 cask 'visual-studio-code-insiders'
 cask 'vlc'
 
