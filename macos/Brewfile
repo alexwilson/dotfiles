@@ -21,6 +21,7 @@ brew 'git'
 brew 'git-extras'
 brew 'go'
 brew 'grc'
+brew 'imagemagick'
 brew 'keybase'
 brew 'koekeishiya/kwm/kwm', restart_service: :changed
 brew 'kops'
