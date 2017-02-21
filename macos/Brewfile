@@ -11,8 +11,11 @@ tap 'neovim/neovim'
 
 # Tools
 brew 'ack'
+brew 'android-platform-tools'
+brew 'android-sdk'
 brew 'awscli'
 brew 'awsebcli'
+brew 'byobu'
 brew 'composer'
 brew 'coreutils'
 brew 'dnsmasq'
@@ -27,11 +30,13 @@ brew 'koekeishiya/kwm/kwm', restart_service: :changed
 brew 'kops'
 brew 'libvpx'
 brew 'mackup'
+brew 'mtr'
 brew 'neovim/neovim/neovim'
 brew 'node'
 brew 'ocaml'
 brew 'opam'
 brew 'openssl'
+brew 'phantomjs'
 brew 'php71'
 brew 'php-version'
 brew 'tig'
@@ -45,6 +50,7 @@ brew 'zsh-completions'
 
 
 # Apps
+cask 'android-studio'
 cask 'charles'
 cask 'dashlane'
 cask 'discord-ptb'
@@ -73,6 +79,7 @@ cask 'synergy'
 cask 'ubersicht'
 cask 'visual-studio-code-insiders'
 cask 'vlc'
+cask 'vmware-fusion'
 
 
 # Mac App Store
