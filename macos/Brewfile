@@ -30,6 +30,7 @@ brew 'koekeishiya/kwm/kwm', restart_service: :changed
 brew 'kops'
 brew 'libvpx'
 brew 'mackup'
+brew 'mosh'
 brew 'mtr'
 brew 'neovim/neovim/neovim'
 brew 'node'
@@ -68,8 +69,10 @@ cask 'imageoptim'
 cask 'irccloud'
 cask 'iterm2-beta'
 cask 'java' unless system '/usr/libexec/java_home --failfast'
+cask 'minikube'
 cask 'mpv'
 cask 'ngrok'
+cask 'plex-media-player'
 cask 'shimo'
 cask 'sketch'
 cask 'skype'
@@ -88,7 +91,7 @@ mas 'Irvue', id: 1039633667
 mas 'Keynote', id: 409183694
 mas 'Numbers', id: 409203825
 mas 'Pages', id: 409201541
-
+mas 'Pixelmator', id: 407963104
 
 
 # Fonts
