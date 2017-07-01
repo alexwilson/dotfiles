@@ -24,6 +24,7 @@ brew 'git'
 brew 'git-extras'
 brew 'go'
 brew 'grc'
+brew 'hyper'
 brew 'imagemagick'
 brew 'keybase'
 brew 'koekeishiya/kwm/kwm', restart_service: :changed
@@ -102,6 +103,7 @@ cask 'vmware-fusion'
 
 
 # Mac App Store
+mas 'Bear', id: 1091189122
 mas 'DaisyDisk', id: 411643860
 mas 'Irvue', id: 1039633667
 mas 'Keynote', id: 409183694
@@ -113,4 +115,5 @@ mas 'Pixelmator', id: 407963104
 # Fonts
 cask 'font-fira-code'
 cask 'font-overpass'
+cask 'font-roboto-slab'
 cask 'font-source-code-pro'
