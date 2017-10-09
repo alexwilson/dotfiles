@@ -12,7 +12,6 @@ tap 'neovim/neovim'
 
 # Tools
 brew 'ack'
-brew 'android-platform-tools'
 brew 'awscli'
 brew 'awsebcli'
 brew 'byobu'
@@ -28,7 +27,6 @@ brew 'grc'
 brew 'htop'
 brew 'hyper'
 brew 'imagemagick'
-brew 'keybase'
 brew 'koekeishiya/formulae/kwm', restart_service: :changed
 brew 'kops'
 brew 'libvpx'
@@ -64,6 +62,7 @@ brew 'zsh-completions'
 
 
 # Apps
+cask 'android-platform-tools'
 cask 'android-studio'
 cask 'arq'
 cask 'battle-net'
@@ -92,6 +91,7 @@ cask 'iterm2-beta'
 cask 'java' unless system '/usr/libexec/java_home --failfast'
 cask 'jetbrains-toolbox'
 cask 'kextviewr'
+cask 'keybase'
 cask 'minikube'
 cask 'mpv'
 cask 'mysqlworkbench'
