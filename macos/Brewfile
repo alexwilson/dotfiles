@@ -22,6 +22,7 @@ brew 'dnsmasq'
 brew 'ffmpeg', args: ['with-libvpx']
 brew 'git'
 brew 'git-extras'
+brew 'glide'
 brew 'go'
 brew 'grc'
 brew 'htop'
