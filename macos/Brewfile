@@ -61,6 +61,10 @@ brew 'zsh'
 brew 'zsh-completions'
 
 
+# Ops-y stuff.
+brew 'terraform'
+
+
 # Apps
 cask 'android-platform-tools'
 cask 'android-studio'
@@ -91,6 +95,7 @@ cask 'irccloud'
 cask 'iterm2-beta'
 cask 'java' unless system '/usr/libexec/java_home --failfast'
 cask 'jetbrains-toolbox'
+cask 'keka'
 cask 'kextviewr'
 cask 'keybase'
 cask 'minikube'
@@ -124,6 +129,7 @@ mas 'Irvue', id: 1039633667
 mas 'Keynote', id: 409183694
 mas 'Numbers', id: 409203825
 mas 'Marked', id: 890031187
+mas 'Mountain Duck', id: 1024974133
 mas 'Pages', id: 409201541
 mas 'Pixelmator', id: 407963104
 mas 'Trello', id: 1278508951
