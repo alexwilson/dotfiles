@@ -33,6 +33,7 @@ brew 'hyper'
 brew 'imagemagick'
 brew 'koekeishiya/formulae/kwm', restart_service: :changed
 brew 'kops'
+brew 'kubernetes-helm'
 brew 'libvpx'
 #brew 'libxml2@2.7'
 brew 'mackup'
@@ -68,6 +69,7 @@ brew 'terraform'
 
 
 # Apps
+cask 'alfred'
 cask 'android-platform-tools'
 cask 'android-studio'
 cask 'arq'
@@ -104,7 +106,6 @@ cask 'minikube'
 cask 'mpv'
 cask 'mysqlworkbench'
 cask 'ngrok'
-cask 'nosleep'
 cask 'oversight'
 cask 'plex-media-player'
 cask 'postman'
