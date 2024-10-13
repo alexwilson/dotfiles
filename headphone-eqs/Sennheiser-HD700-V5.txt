@@ -1,0 +1,14 @@
+# Adapted from oratory1990's recommended EQ
+# https://www.reddit.com/r/oratory1990/wiki/index/list_of_presets/#wiki_full_list_of_eq_settings.3A
+
+Preamp: -8.8 dB
+Filter 1: ON PK Fc 23 Hz Gain 4.0 dB Q 1.20
+Filter 2: ON LS Fc 105 Hz Gain 5.5 dB Q 0.71
+Filter 3: ON PK Fc 190 Hz Gain -5.0 dB Q 0.30
+Filter 4: ON PK Fc 1000 Hz Gain -1.1 dB Q 1.40
+Filter 5: ON PK Fc 1920 Hz Gain 2.7 dB Q 1.40
+Filter 6: ON PK Fc 2870 Hz Gain -0.5 dB Q 3.50
+Filter 7: ON PK Fc 5250 Hz Gain -5.3 dB Q 5.00
+Filter 8: ON PK Fc 5850 Hz Gain -9.2 dB Q 4.80
+Filter 9: ON PK Fc 10700 Hz Gain -3.8 dB Q 6.00
+Filter 10: ON HS Fc 14000 Hz Gain -5.9 dB Q 0.71
